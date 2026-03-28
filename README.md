@@ -1,24 +1,4 @@
-👋 Hi, I'm Misbah Sehar
-Python Backend Developer · Django · FastAPI · REST APIs
-
-📍 Lahore, Pakistan  |  🎓 BS CS @ COMSATS (CGPA 3.54)  |  📧 saharmisbah69@gmail.com
-
-🔧 Tech Stack
-Python Django FastAPI DRF MySQL REST APIs WebSockets JWT Auth React.js Git
-🚀 Featured Projects
-DreamsChat — Real-time chat app · Django + WebSockets + JWT + MySQL + Cron Jobs
-
-TurboText — Bulk document analysis engine · FastAPI + Parallel Processing
-
-MLSA Website — Official site for Microsoft Student Ambassador chapter · React
-
-Clinic Management System — Desktop app · PyQt5 + MySQL
-
-🔍 Actively looking for: Python Developer Internship or Junior Backend Role (Remote / Lahore)
-
-📬 Reach me: saharmisbah69@gmail.com · LinkedIn
-
-# 👋 Hi, I'm Misbah Sehar
+#  Hi, I'm Misbah Sehar
 
 **Python Backend Developer · Django · FastAPI · REST APIs**
 
