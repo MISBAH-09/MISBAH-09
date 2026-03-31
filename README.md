@@ -1,6 +1,6 @@
 #  Hi, I'm Misbah Sehar
 
-**Python Backend Developer · Django · FastAPI · REST APIs**
+**Full Stack Python (Backend-Focused) Developer · Django · FastAPI · REST APIs**
 
 📍 Lahore, Pakistan  |  🎓 BS CS @ COMSATS (CGPA 3.54)  |  📧 saharmisbah69@gmail.com
 
